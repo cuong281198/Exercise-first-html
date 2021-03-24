@@ -1,0 +1,203 @@
+body{
+  width: 1366px;
+  height: 768px;
+  background-color:  #F2F2F2;
+}
+.container-fluid{
+  height: 80px;
+  width: 100%;
+  display: flex;
+  
+}
+.logo{
+  width: 56px;
+  height: 43px; 
+  margin: 19px 41px 42px 40px;
+  object-fit: contain;
+}
+.devider{
+  width: 1px;
+  height: 30px;
+  margin: 25px 0 49px 0;
+  background-color: #cccccc;
+}
+ul li{
+  margin-top: 10px;
+  display: inline-table;
+  list-style-type: none;
+  padding: 15px;
+  font-size: 14px;
+}
+.nav-link :active{
+  width: 30px;height: 30px;border-radius: 4px;box-shadow: 0px 8px 20px 0 rgba(0, 0, 1, 0.1);background-color: #ffffff;
+}
+.bi-cart4{
+  box-shadow: 0px 8px 20px 0 rgba(0, 0, 1, 0.1);
+                                    background-color: #ffffff;
+}
+.bg{
+  width: 30px;
+  height: 30px;
+  box-shadow: 0px 8px 20px 0 rgba(0, 0, 1, 0.1);
+  background-color: #ffffff;
+  margin-left: -400px;
+}
+.Cart{
+  width: 26px;
+  height: 11px;
+  margin-left: 5px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: left;
+  color: #636363;
+}
+.Search-icon{
+  margin-left: 39px;
+  
+}
+.Layer-1{
+  margin-left: 40px;
+  margin-top: -10px;
+  width: 40px;
+  height: 40px;
+}
+.icon-image{
+  border-radius: 50%;
+}
+.Robert{
+  margin-left: 15px;
+}
+.nav-item{
+  margin-left: 14px;
+}
+.Phoenix-Salomon-Max {
+  width: 1301px;
+  height: 642px;
+  margin: 42px 16px 17px 0;
+  position: absolute;
+  font-family: GothamPro;
+  font-size: 300px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.7;
+  letter-spacing: normal;
+  text-align: left;
+  color: #E6E6E6;
+}
+.container{
+  position: relative;
+}
+.container1{
+  display: inline-flex;
+}
+.image1{
+  width: 190px;
+  height: 233px;
+  margin: 200px 0 16px -70px;
+  object-fit: contain;
+  opacity:0.5;
+  mix-blend-mode: darken;
+}
+.image2{
+  width: 310px; height: 372px;
+  object-fit: contain;
+  margin: 94px 250px 28px 113px;
+  mix-blend-mode: darken;
+}
+.image3{
+  width: 190px;
+  height: 233px;
+  margin: 204px 40px 12px 24px;
+  object-fit: contain;
+  opacity:0.5;
+  mix-blend-mode: darken;
+}
+.content-mid{
+  margin-top: 240px;
+  margin-left: -169px;
+  position: relative;
+}
+.Phoenix-Salomon-Max-mid{
+  font-family: GothamPro;
+  font-size: 20px;
+  text-align: left;
+  color: #3f3f3f;
+}
+.content-mid1{
+  display: inline-flex;
+}
+.T-shirt{
+  font-size: 14px;
+  font-family: Roboto;
+  color: #959595;
+}
+.icon-star{
+  margin-left: 50px;
+}
+.fa-star{
+  color: #f36d4f;
+}
+.fa-star-o{
+  color: #c2c2c2;
+}
+.content-mid2{
+  display:flex;
+}
+.icon-confirm{
+  margin-left: 100px;
+  margin-right: 18px;
+  width: 30px;
+  height: 30px;
+  color: #f36d4f;
+}
+.icon-share{
+  width: 25px;
+  height: 25px;
+  background-color:white;
+}
+.fa-share{
+  padding: 3px;
+  
+}
+.footer{
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   background-color: red;
+   width: 75%;
+   height: 5px;
+   text-align: center;
+}
+.shadow1{
+  width: 175px;
+  height: 40px;
+  margin: 16px 118px 42px 10px;
+}
+.icon-bot{
+  display: flex;
+  justify-content: space-between;
+  margin: 160px 0px 40px -50px;
+}
+.fa-align-justify{
+  width: 40px;
+  height: 40px;
+  margin: 0px 20px 0 0;
+  padding: 14px 12px;
+  box-shadow: 0px 8px 20px 0 rgba(0, 0, 1, 0.1);
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+.bi-chat-left-fill{
+  width: 40px;
+  height: 40px;
+  margin: 0px 20px 0 0;
+  padding: 14px 12px;
+  box-shadow: 0px 8px 20px 0 rgba(0, 0, 1, 0.1);
+  color: #ffffff;
+  background-color: #3f3f3f;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=store_product_list.css.map */
