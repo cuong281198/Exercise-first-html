@@ -10,11 +10,9 @@
 }
 
 .image-top {
-
     margin: 0px 206px 153px 0px;
     object-fit: contain;
     position: absolute;
-
 }
 
 .logo {
@@ -79,7 +77,6 @@
 .form {
     position: relative;
     display: inline-flex;
-
 }
 
 .rectangle {
@@ -134,7 +131,6 @@
     letter-spacing: normal;
     color: black;
     position: relative;
-
 }
 
 .rectangle-4 {
@@ -142,7 +138,6 @@
     height: 2px;
     margin: 48px 791px 60px 211px;
     background-color: #9a9a9a;
-
 }
 
 .image-mid {
@@ -227,17 +222,16 @@
 }
 
 .fa-circle {
-    width: 10px;
-    height: 10px;
+    font-size: 8px;
     margin-right: 15px;
     border: none;
 }
 
-.fa-circle-o {
-    width: 10px;
-    height: 10px;
+.fa-1 {
+    font-size: 8px;
     margin-right: 15px;
     border: none;
+    color: #b4aca5;
 }
 
 .picture-mid {
@@ -288,7 +282,7 @@
     border-radius: 5px;
 }
 
-.form-bot1-second textarea{
+.form-bot1-second textarea {
     background-color: #ededed;
     border: none;
     width: 400px;
@@ -298,6 +292,7 @@
     border-radius: 5px;
     resize: none;
 }
+
 #Submit {
     width: 181px;
     height: 50px;
